@@ -76,7 +76,7 @@ app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/news-portal.git
+git clone [https://github.com/fatihyuksel3109/news-app].git
 cd news-portal
 ```
 
